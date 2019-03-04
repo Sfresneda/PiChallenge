@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  PiChallenge
+
+  Created by fresneda on 3/4/19.
+  Copyright © 2019 fresneda. All rights reserved.
+*/
+
+/* GENERIC */
+"_generic_error_title" = "Error";
+"_generic_accept_button_title" = "Aceptar";
+"_generic_cancel_button_title" = "Cancelar";
+
+/* MAIN */
+"_main_title" = "Pi Challenge";
+"_main_game_button_title" = "Comenzar";
+"_main_score_button_title" = "Putuaciones";
+"_main_archivements_button_title" = "Logros";
+"_main_version_prefix_title" = "Versión";
+
+/* GAME */
+
+/* SCORE */
