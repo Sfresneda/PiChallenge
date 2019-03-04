@@ -1,2 +1,2 @@
 # PiChallenge
-Game developed with iOS
+Game developed for iOS with Swift
